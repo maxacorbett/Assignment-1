@@ -2,6 +2,6 @@
 
 ![Photo Of Mom](FAMILYPHOTO.png)
 
-- play card games with her 
-- Share glasses of wine and reminisce
-- watch our show General Hospital 
+- Play card games with my mom
+- Share glasses of wine and reminisce with my parents 
+- Watch our soap opera General Hospital whenever we get together 
