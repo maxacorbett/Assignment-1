@@ -1,1 +1,7 @@
-hello from article 2
+## Baking
+
+![BakingPhoto](BakingPhoto.jpeg)
+
+- Try making more Italian treats 
+- Study family recipes 
+- Eat all my bad batches 
