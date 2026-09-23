@@ -1,4 +1,4 @@
-## Baking
+## Baking Goals
 
 ![BakingPhoto](BakingPhoto.jpeg)
 

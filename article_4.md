@@ -1,4 +1,4 @@
-## Hobbies
+## Hobbies Goals
 
 ![HobbiesPhoto](PoolPhoto.JPEG)
 
