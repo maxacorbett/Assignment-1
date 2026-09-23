@@ -1,6 +1,6 @@
 ## Pets Goals
 
-![BakingPhoto](BakingPhoto.jpeg)
+![BakingPhoto](DOGPHOTO.png)
 
 - Take naps with my pets
 - Buy them toys and treats 

@@ -1,6 +1,6 @@
 ## Hobbies Goals
 
-![HobbiesPhoto](PoolPhoto.JPEG)
+![HobbiesPhoto](PoolPHOTO.png)
 
 - Get better at pool to beat my dad
 - Find time to play after I study

@@ -1,6 +1,6 @@
 ## Baking Goals
 
-![BakingPhoto](BakingPhoto.jpeg)
+![BakingPhoto](BAKINGPHOTO.png)
 
 - Try making more Italian treats 
 - Study family recipes 

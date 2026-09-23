@@ -1,6 +1,6 @@
 ## Family Goals
 
-![Photo Of Mom](MomPhoto.jpeg)
+![Photo Of Mom](FAMILYPHOTO.png)
 
 - play card games with her 
 - Share glasses of wine and reminisce
